@@ -1,0 +1,28 @@
+{
+  "name": "project-visualization",
+  "version": "0.0.0",
+  "description": "v0 - Initial Visualization",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "audio-speaker": "^1.5.0",
+    "node-wav": "^0.0.2",
+    "wav": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spectrumbranch/project-visualization.git"
+  },
+  "author": "cbebry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spectrumbranch/project-visualization/issues"
+  },
+  "homepage": "https://github.com/spectrumbranch/project-visualization#readme"
+}
